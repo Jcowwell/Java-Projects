@@ -51,7 +51,7 @@ public class List {
 
 	}
 
-	//delete helper method.
+	//delete method.
 	public void delete() {
 		current = list;
 		if(isEmpty()){
